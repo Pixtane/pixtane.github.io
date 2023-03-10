@@ -1,4 +1,8 @@
-permalink: /constitution/
+---
+title: Конституція
+layout: template
+filename: constitution.md
+--- 
 # Процес вибору.
 Вибір депутатів відбувається за таких умов:
 
