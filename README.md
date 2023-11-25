@@ -1,2 +1,3 @@
 # pixtane.github.io
-Вітаємо! Це сайт Ярослава Карасевича.
+My websites:
+Calculator: pixtane.github.io/calculator
